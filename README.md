@@ -1,6 +1,14 @@
 # efficiency-oasis
 
 <details>
+   <summary>Day 4 - April 12 - 2024</summary>
+   
+   - 🧠 [Learning](https://www.baeldung.com/spring-autowire) - Spring Autowired
+   - 📰 [News](https://www.indiatoday.in/business/story/tesla-manufacturing-plant-india-elon-musk-opportunity-for-tamil-nadu-ev-capital-of-india-2526396-2024-04-12) - Tesla on Tamil Nadu’s radar ahead of Elon Musk’s India visit
+   
+</details>
+
+<details>
    <summary>Day 3 - April 11 - 2024</summary>
    
    - 🧠 [Learning](https://vuejs.org/guide/built-ins/suspense.html#suspense) - Vue Suspense
