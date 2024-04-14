@@ -1,6 +1,13 @@
 # efficiency-oasis
 
 <details>
+   <summary>Day 6 - April 14 - 2024</summary>
+   
+   - 📰 [News](https://www.financialexpress.com/life/technology-openai-meta-are-close-to-making-ai-think-and-reason-like-humans-report-saysnbsp-3456415/lite/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts) - OpenAI, Meta are close to making AI think and reason like humans
+   
+</details>
+
+<details>
    <summary>Day 5 - April 13 - 2024</summary>
    
    - 🧠 [Learning](https://medium.com/@kiran.writes/micro-frontends-what-why-when-and-how-7682b4fd357d) - Micro Fronted
