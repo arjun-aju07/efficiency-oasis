@@ -1,6 +1,13 @@
 # efficiency-oasis
 
 <details>
+   <summary>Day 7 - April 16 - 2024</summary>
+   
+   - 📰 [News](https://www.indonesia.travel/gb/en/general-information/currency#:~:text=What%20is%20the%20currency%20of,the%20currency%20symbol%20is%20Rp.) - Indonesia Currency
+   
+</details>
+
+<details>
    <summary>Day 6 - April 14 - 2024</summary>
    
    - 📰 [News](https://www.financialexpress.com/life/technology-openai-meta-are-close-to-making-ai-think-and-reason-like-humans-report-saysnbsp-3456415/lite/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts) - OpenAI, Meta are close to making AI think and reason like humans
