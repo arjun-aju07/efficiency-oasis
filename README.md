@@ -1,6 +1,13 @@
 # efficiency-oasis
 
 <details>
+   <summary>Day 8 - April 22 - 2024</summary>
+   
+   - 📰 [News](https://timesofindia.indiatimes.com/technology/tech-news/linkedin-names-tcs-as-top-tech-company-to-work-for-in-india-heres-the-complete-list/articleshow/109503893.cms) - LinkedIn names TCS as top tech company to work for in India
+
+</details>
+
+<details>
    <summary>Day 7 - April 16 - 2024</summary>
    
    - 📰 [News](https://www.indonesia.travel/gb/en/general-information/currency#:~:text=What%20is%20the%20currency%20of,the%20currency%20symbol%20is%20Rp.) - Indonesia Currency
